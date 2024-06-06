@@ -85,23 +85,3 @@ app.listen(2000, () => {
     console.log('Server is running on port 2000');
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// M U-NAME : satyapalbishnoi129
-// M U-PASS : mdPhOKJbDKe5mDsB
